@@ -1,0 +1,6 @@
+pandas
+requests
+lightgbm
+scipy
+scikit-learn
+openpyxl
